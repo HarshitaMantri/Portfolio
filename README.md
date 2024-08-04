@@ -4,11 +4,8 @@ A personal portfolio is a great way to showcase your skills and experiences! Usi
 HTML Structure:
 
 1. Create an index.html file and add the basic HTML structure:
-    - <!DOCTYPE html>
-    - <html>
     - <head> (meta tags, title, links to CSS files)
     - <body> (content)
-    - </html>
 2. Divide your portfolio into sections using HTML elements like:
     - <header> (navigation, logo)
     - <section> (about, projects, skills, contact)
